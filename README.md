@@ -34,7 +34,7 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 
 ## 📸 Visuals
 ![Gameplay Screenshot](link-to-image)  
-[![Watch Gameplay Video](https://img.youtube.com/vi/video-id/0.jpg)](https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link)
+[![Watch Gameplay Video](https://res.cloudinary.com/apideck/image/upload/v1686711357/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-06-14_at_04.54.59_x4ndgw.png)](https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link)
 
 ## 🔗 Download/Play Link
 [Play the game here](link-to-game)
