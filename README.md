@@ -34,8 +34,6 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 
 ## 📸 Visuals
 ![Gameplay Screenshot](link-to-image)  
-![UI Design](link-to-image)  
-
 [![Watch Gameplay Video](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=video-id)
 
 ## 🔗 Download/Play Link
