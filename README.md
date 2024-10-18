@@ -45,4 +45,3 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 
 ---
 
-You can copy this template into each project’s README.md, replacing the placeholder text with details specific to that project.
