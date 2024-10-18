@@ -32,9 +32,8 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 - **Challenge 2:** _e.g., Balancing complex game mechanics_  
   **Solution:** _Introduced dynamic difficulty scaling based on player stats._
 
-## 📸 Visuals
-![Gameplay Screenshot](link-to-image)  
-<a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
+## 📸 Visuals 
+![Gameplay Screenshot]<a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
     <img src="https://res.cloudinary.com/apideck/image/upload/v1686711357/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-06-14_at_04.54.59_x4ndgw.png" alt="Watch Gameplay Video" width="300" height ="300" />
 </a>
 
