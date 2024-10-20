@@ -1,4 +1,5 @@
 <div align="center"><h1>Neural Dominion</h1></div>
+
 **Project Type:** _PC_  
 **Genre:** 4X strategy  
 **Development Period:** _2024 – Ongoing_
