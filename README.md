@@ -36,8 +36,7 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 Tap the image to see the gameplay video!
 
 <div align="center">
-  <h3>Videos</h3>
-
+  <h3>Video</h3>
 
 <a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
     <img src="Images/4.png" alt="Watch Gameplay Video" height ="300" />
@@ -45,9 +44,8 @@ Tap the image to see the gameplay video!
 
   <h3>Screenshots</h3>
 
-
-<img src="Images/0.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/1.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/2.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-
+<img src="Images/0.png" alt="Description of Image" height="200" style="display: inline-block;"/>
+<img src="Images/1.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/2.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
 
 </div>
 
