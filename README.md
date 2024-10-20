@@ -1,6 +1,5 @@
 <div align="center">
-# Project Name: _Neural Dominion_
-  <h1>_Neural Dominion_</h1>
+  <h1>Neural Dominion</h1>
   </div>
 
 **Project Type:** _PC_  
