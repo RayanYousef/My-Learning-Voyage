@@ -1,7 +1,7 @@
 <div align="center"><h1>Neural Dominion</h1></div>
 
 **Project Type:** _PC_  
-**Genre:** _4X Strategy_, _Cyberpunk_, _Sci-fi_
+**Genre:** _4X Strategy_, _Cyberpunk_, _Sci-fi_                                    
 **Development Period:** _2024 – Ongoing_                                           
 **Web Page:** [_Steam_](https://store.steampowered.com/app/2493210/Neural_Dominion/)
 
