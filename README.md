@@ -25,7 +25,9 @@ Neural Dominion is a cyberpunk 4X strategy game where players control gangs in a
 - Steam.
 
 ## 👨‍💻 Role and Contributions
-- **Role:** Game Programmer.
+- **Role:**  
+  - Game Programmer.
+
 - **Contributions:**  
   - Developed major game systems from scratch, including Combat, Inventory, Stat, Skill, Store, AI, Audio, Character, Minimap, and Tutorial systems.
   - Contributed to the project’s base architecture, optimizing performance and scalability.
