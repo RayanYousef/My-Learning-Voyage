@@ -2,7 +2,7 @@
 
 **Project Type:** Mobile                                        
 **Genre:** Casual  
-**Development Period:** 2024
+**Development Period:** 2024 (Completed within the year)
 
 ## 📜 Project Summary
 It's difficult times and super powers took the world by storm. 
