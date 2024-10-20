@@ -22,7 +22,7 @@ Neural Dominion is a cyberpunk 4X strategy game where players control gangs in a
 - **Programming Languages:** C#.
 
 ## 🌍 Platforms Released
-- Steam.
+- To be released on Steam.
 
 ## 👨‍💻 Role and Contributions
 - **Role:**  
