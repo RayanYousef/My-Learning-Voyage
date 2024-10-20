@@ -2,8 +2,7 @@
 
 **Project Type:** _PC_  
 **Genre:** 4X strategy  
-**Development Period:** _2024 – Ongoing_
-
+**Development Period:** _2024 – Ongoing_ 
 **Web Page:**:[Steam](https://store.steampowered.com/app/2493210/Neural_Dominion/).
 
 ## 📜 Project Summary
