@@ -1,6 +1,6 @@
 <div align="center"><h1>Tap Tap Fighters</h1></div>
 
-**Project Type:** Mobile 
+**Project Type:** Mobile                                        
 **Genre:** Casual  
 **Development Period:** 2024
 
