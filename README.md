@@ -35,10 +35,7 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 ## 📸 Visuals 
 Tap the image to see the gameplay video!
 
-<img src="Images/0.png" alt="Description of Image" height="300" style="display: inline-block;"/>
-<img src="Images/1.png" alt="Description of Image" height="300" style="display: inline-block;"/>
-<img src="Images/2.png" alt="Description of Image" height="300" style="display: inline-block;"/>
-<img src="Images/3.png" alt="Description of Image" height="300" style="display: inline-block;"/>
+<img src="Images/0.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/1.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/2.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
 
 Video:
 <a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
