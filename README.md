@@ -33,8 +33,6 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
   **Solution:** _Introduced dynamic difficulty scaling based on player stats._
 
 ## 📸 Visuals 
-Tap the image to see the gameplay video!
-
 <div align="center">
   <h3>Video</h3>
 
