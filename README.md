@@ -38,7 +38,7 @@ Tap the image to see the gameplay video!
 <div align="center">
   <h3>Video</h3>
 
-<a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
+<a href="https://video.akamai.steamstatic.com/store_trailers/257044218/movie480_vp9.webm?t=1723045120" target="_blank">
     <img src="Images/4.png" alt="Watch Gameplay Video" height ="300" />
 </a>
 
