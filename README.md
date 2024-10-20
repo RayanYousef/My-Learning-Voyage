@@ -1,24 +1,36 @@
-<div align="center"><h1>Project Name</h1></div>
+<div align="center"><h1>Tap Tap Fighters</h1></div>
 
-**Project Type:** _PC/Console/Mobile/VR/AR/Web_  
-**Genre:** _Action, Puzzle, RPG, Simulation, etc._  
-**Development Period:** _Start Date – End Date_
+**Project Type:** Mobile 
+**Genre:** Casual  
+**Development Period:** 2024
 
 ## 📜 Project Summary
-A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mechanics.
+It's difficult times and super powers took the world by storm. 
+Many are good but some are as evil as ever. 
+Choose your side and rise up the rankings to be the ultimate superhero and take control.
+Tap your way through the enemy's defense to win in a heated battle
 
 ## 🎮 Key Features
-- Feature 1: _e.g., Multiplayer mode with real-time synchronization_
-- Feature 2: _e.g., Procedural level generation for endless gameplay_
-- Feature 3: _e.g., Customizable character skills and attributes_
+- **Tap to Win**: Compete in real-time by tapping the screen as fast as possible to rack up points.
+- **Power-Up Buffs**: Buffs appear randomly, giving players the chance to freeze opponents or enhance their score.
+- **Leaderboard**: Compete globally and climb the leaderboard to show who’s the fastest.
+- **Simple Gameplay**: Easy-to-learn mechanics ensure quick, fun sessions for all players.
+- **Fast-Paced Action**: The faster you tap, the higher your score and chances of winning!
 
 ## 🛠️ Technologies Used
-- **Game Engine:** Unity, Unreal, Godot, etc.
-- **Programming Languages:** C#, C++, etc.
-- **Tools:** Photoshop, Blender, FMOD, etc.
+- **Game Engine:** Unity.
+- **Programming Languages:** C#.
+- **Tools:** 
+
+  - Unity Gaming Services (UGS).
+    - Relay.
+    - Lobby.
+    - Netcode.
+  
+
 
 ## 🌍 Platforms Released
-- Steam, iOS, Android, etc.
+- iOS, Androidc.
 
 ## 👨‍💻 Role and Contributions
 - **Role:**  
@@ -28,11 +40,6 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
   - Developed AI for enemy behavior.  
   - Implemented a physics-based character controller.
 
-## 🧠 Challenges and Solutions
-- **Challenge 1:** _e.g., Performance issues with large environments_  
-  **Solution:** _Optimized level streaming and reduced asset load times._  
-- **Challenge 2:** _e.g., Balancing complex game mechanics_  
-  **Solution:** _Introduced dynamic difficulty scaling based on player stats._
 
 ## 📸 Visuals 
 <div align="center">
@@ -52,11 +59,4 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 </div>
 
 ## 🔗 Download/Play Link
-[Play the game here](link-to-game)
-
-## 🏆 Awards and Recognition
-- **Award 1:** _e.g., Best Indie Game at XYZ Festival_  
-- **Mention 2:** _e.g., Featured in ABC Gaming Blog_
-
----
-
+[Play the game here](https://play.google.com/store/apps/details?id=com.GamesBond.TapTapFighters&hl=en)
