@@ -1,4 +1,4 @@
-# Project Name: _[Your Game Title]_
+<div align="center"><h1>Project Name</h1></div>
 
 **Project Type:** _PC/Console/Mobile/VR/AR/Web_  
 **Genre:** _Action, Puzzle, RPG, Simulation, etc._  
@@ -21,7 +21,9 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 - Steam, iOS, Android, etc.
 
 ## 👨‍💻 Role and Contributions
-- **Role:** Game Designer, Programmer, 3D Artist, etc.
+- **Role:**  
+  - Game Programmer.
+  
 - **Contributions:**  
   - Developed AI for enemy behavior.  
   - Implemented a physics-based character controller.
@@ -37,7 +39,7 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
   <h3>Video</h3>
 
 <a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
-    <img src="Images/4.png" alt="Watch Gameplay Video" height ="300" />
+    <img src="Images/Video.png" alt="Watch Gameplay Video" height ="300" />
 </a>
 
   <h3>Screenshots</h3>
