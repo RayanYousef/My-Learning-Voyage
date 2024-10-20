@@ -1,8 +1,12 @@
-# Project Name: _[Neural Dominion]_
+<div align="center">
+# Project Name: _Neural Dominion_
+  <h1>_Neural Dominion_</h1>
+  </div>
 
 **Project Type:** _PC_  
 **Genre:** 4X strategy  
 **Development Period:** _2024 – Ongoing_
+
 [Steam](https://store.steampowered.com/app/2493210/Neural_Dominion/).
 
 ## 📜 Project Summary
