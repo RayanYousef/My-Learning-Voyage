@@ -38,7 +38,7 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 <div align="center">
   <h3>Video</h3>
 
-<a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
+<a href="https://youtu.be/w-NjqWDMcak" target="_blank">
     <img src="Images/Video.png" alt="Watch Gameplay Video" height ="300" />
 </a>
 
