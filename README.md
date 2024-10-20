@@ -40,7 +40,8 @@ Tap the image to see the gameplay video!
     <img src="Images/4.png" alt="Watch Gameplay Video" height ="300" />
 </a>
 
-### Screenshots:
+<h3 style="text-align: center;">Screenshots</h3>
+
 <img src="Images/0.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/1.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/2.png" alt="Description of Image" height="200" style="display: inline-block;"/><img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
 
 
