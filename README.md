@@ -30,15 +30,17 @@ Tap your way through the enemy's defense to win in a heated battle
 
 
 ## 🌍 Platforms Released
-- iOS, Androidc.
+- iOS, Android.
 
 ## 👨‍💻 Role and Contributions
-- **Role:**  
+- **Role**:  
   - Game Programmer.
-  
-- **Contributions:**  
-  - Developed AI for enemy behavior.  
-  - Implemented a physics-based character controller.
+
+- **Contributions**:  
+  - Developed AI systems to enhance gameplay dynamics.  
+  - Integrated Unity Gaming Services, including networking with Relay, Lobby, and Netcode for real-time multiplayer functionality.  
+  - Implemented interactive buffs that appear during gameplay, requiring players to click them to gain power-ups, adding an extra layer of strategy.  
+  - Designed and implemented an in-game tutorial system to guide players through core mechanics and features.
 
 
 ## 📸 Visuals 
