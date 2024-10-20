@@ -1,10 +1,9 @@
 <div align="center"><h1>Neural Dominion</h1></div>
 
 **Project Type:** _PC_  
-**Genre:** 4X strategy, Cyberpunk, Sci-fi
-
+**Genre:** _4X Strategy_, _Cyberpunk_, _Sci-fi_
 **Development Period:** _2024 – Ongoing_                                           
-**Web Page:** [Steam](https://store.steampowered.com/app/2493210/Neural_Dominion/)
+**Web Page:** [_Steam_](https://store.steampowered.com/app/2493210/Neural_Dominion/)
 
 ## 📜 Project Summary
 Neural Dominion is a cyberpunk 4X strategy game where players control gangs in a neon-lit city. Engage in crime, manage resources, and use cybernetic enhancements to outsmart opponents in a blend of turn-based and real-time combat. The game combines city management, research, and tactical warfare in a gritty, high-tech world.                     
@@ -21,7 +20,7 @@ Neural Dominion is a cyberpunk 4X strategy game where players control gangs in a
 - **Game Engine:** Unity.
 - **Programming Languages:** C#.
 
-## 🌍 Platforms Released
+## 🌍 Platform
 - To be released on Steam.
 
 ## 👨‍💻 Role and Contributions
