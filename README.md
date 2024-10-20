@@ -1,36 +1,35 @@
-# Project Name: _[Your Game Title]_
+# Project Name: _[Neural Dominion]_
 
-**Project Type:** _PC/Console/Mobile/VR/AR/Web_  
-**Genre:** _Action, Puzzle, RPG, Simulation, etc._  
-**Development Period:** _Start Date – End Date_
+**Project Type:** _PC_  
+**Genre:** 4X strategy  
+**Development Period:** _2024 – Ongoing_
+[Steam](https://store.steampowered.com/app/2493210/Neural_Dominion/).
 
 ## 📜 Project Summary
-A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mechanics.
+Neural Dominion is a cyberpunk 4X strategy game where players control gangs in a neon-lit city. Engage in crime, manage resources, and use cybernetic enhancements to outsmart opponents in a blend of turn-based and real-time combat. The game combines city management, research, and tactical warfare in a gritty, high-tech world.
+[Game Article](https://www.pcgamesn.com/neural-dominion/cyberpunk-4x-strategy-game).
 
 ## 🎮 Key Features
-- Feature 1: _e.g., Multiplayer mode with real-time synchronization_
-- Feature 2: _e.g., Procedural level generation for endless gameplay_
-- Feature 3: _e.g., Customizable character skills and attributes_
+- **Gang Control**: Manage one of five unique cyberpunk gangs, each with different strengths.
+- **Resource Management**: Balance crime, economy, and technology to expand influence.
+- **Tactical Combat**: Combine turn-based and real-time mechanics for dynamic battles.
+- **Cybernetic Enhancements**: Upgrade gang members with advanced cyberware to gain combat advantages.
+- **City Domination**: Strategically control districts, exploit local resources, and build your empire.
+
 
 ## 🛠️ Technologies Used
-- **Game Engine:** Unity, Unreal, Godot, etc.
-- **Programming Languages:** C#, C++, etc.
-- **Tools:** Photoshop, Blender, FMOD, etc.
+- **Game Engine:** Unity.
+- **Programming Languages:** C#.
 
 ## 🌍 Platforms Released
-- Steam, iOS, Android, etc.
+- Steam.
 
 ## 👨‍💻 Role and Contributions
-- **Role:** Game Designer, Programmer, 3D Artist, etc.
+- **Role:** Game Programmer.
 - **Contributions:**  
-  - Developed AI for enemy behavior.  
-  - Implemented a physics-based character controller.
-
-## 🧠 Challenges and Solutions
-- **Challenge 1:** _e.g., Performance issues with large environments_  
-  **Solution:** _Optimized level streaming and reduced asset load times._  
-- **Challenge 2:** _e.g., Balancing complex game mechanics_  
-  **Solution:** _Introduced dynamic difficulty scaling based on player stats._
+  - Developed major game systems from scratch, including Combat, Inventory, Stat, Skill, Store, AI, Audio, Character, Minimap, and Tutorial systems.
+  - Contributed to the project’s base architecture, optimizing performance and scalability.
+  - Worked on refining and enhancing existing systems, ensuring smooth integration across gameplay mechanics.
 
 ## 📸 Visuals 
 <div align="center">
@@ -48,13 +47,4 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 <img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
 
 </div>
-
-## 🔗 Download/Play Link
-[Play the game here](link-to-game)
-
-## 🏆 Awards and Recognition
-- **Award 1:** _e.g., Best Indie Game at XYZ Festival_  
-- **Mention 2:** _e.g., Featured in ABC Gaming Blog_
-
----
 
