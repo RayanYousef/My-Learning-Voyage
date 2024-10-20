@@ -41,10 +41,7 @@ Tap the image to see the gameplay video!
 </a>
 
 ### Screenshots:
-<img src="Images/0.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-<img src="Images/1.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-<img src="Images/2.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-<img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
+<img src="Images/0.png" alt="Description of Image" height="200" style="display: inline-block;"/> <img src="Images/1.png" alt="Description of Image" height="200" style="display: inline-block;"/> <img src="Images/2.png" alt="Description of Image" height="200" style="display: inline-block;"/> <img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
 
 
 
