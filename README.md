@@ -33,7 +33,7 @@ In a post-apocalyptic universe where science has vanished, players embark on a n
 <a href="https://drive.google.com/file/d/1N3gQKOZuxLo_ExvaL7pECztFndbUHP4H/view?usp=sharing" target="_blank">
     <img src="Images/Video.png" alt="Watch Gameplay Video" height ="300" />
 </a>
-
+</div>
 ## 🏆 Awards and Recognition
 - **First Place:** Hackathon organised by lablab.ai.  
 
