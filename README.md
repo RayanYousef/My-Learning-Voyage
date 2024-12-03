@@ -1,6 +1,7 @@
 <div align="center"><h1>TechQuest</h1></div>
 
 [Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7126317778608734208/?originTrackingId=l7OMgxLNQ%2BawWp4Qv7BvtA%3D%3D)
+
 **Project Type:** PC, Web  
 **Genre:** Adventure, Educational  
 **Development Period:** 3 days (Hackathon Duration)
@@ -29,18 +30,9 @@ In a post-apocalyptic universe where science has vanished, players embark on a n
 <div align="center">
   <h3>Video</h3>
 
-<a href="https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1N3gQKOZuxLo_ExvaL7pECztFndbUHP4H/view?usp=sharing" target="_blank">
     <img src="Images/Video.png" alt="Watch Gameplay Video" height ="300" />
 </a>
-
-  <h3>Screenshots</h3>
-
-<img src="Images/0.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-<img src="Images/1.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-<img src="Images/2.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-<img src="Images/3.png" alt="Description of Image" height="200" style="display: inline-block;"/>
-
-</div>
 
 ## 🔗 Download/Play Link
 [Play the game here](link-to-game)
