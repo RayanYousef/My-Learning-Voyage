@@ -1,4 +1,4 @@
-<div align="center"><h1>Project Name</h1></div>
+<div align="center"><h1>Language AI Assistant</h1></div>
 
 **Project Type:** Educational Tool  
 **Genre:** AI-Enhanced Language Learning  
