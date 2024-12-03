@@ -1,38 +1,29 @@
-<div align="center"><h1>Project Name</h1></div>
+<div align="center"><h1>TechQuest</h1></div>
 
-**Project Type:** _PC/Console/Mobile/VR/AR/Web_  
-**Genre:** _Action, Puzzle, RPG, Simulation, etc._  
-**Development Period:** _Start Date – End Date_
+[Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7126317778608734208/?originTrackingId=l7OMgxLNQ%2BawWp4Qv7BvtA%3D%3D)
+**Project Type:** PC, Web  
+**Genre:** Adventure, Educational  
+**Development Period:** 3 days (Hackathon Duration)
 
 ## 📜 Project Summary
-A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mechanics.
+In a post-apocalyptic universe where science has vanished, players embark on a narrative-rich journey with their AI companion to uncover forgotten technological secrets. "TechQuest: A Journey Through the Lost World" intertwines adventure with education, offering puzzles and challenges relating to science and technology, and immersing players in diverse environments filled with artifacts and lost technologies.
 
 ## 🎮 Key Features
-- Feature 1: _e.g., Multiplayer mode with real-time synchronization_
-- Feature 2: _e.g., Procedural level generation for endless gameplay_
-- Feature 3: _e.g., Customizable character skills and attributes_
+- **AI Companion:** Collaborate with advanced language models to progress through the narrative and solve challenges.
+- **Educational Gameplay:** Seamlessly integrated puzzles and challenges designed to educate players on science and technology.
+- **Diverse Exploration:** Traverse through various environments while collecting artifacts and unlocking lost technologies.
 
 ## 🛠️ Technologies Used
-- **Game Engine:** Unity, Unreal, Godot, etc.
-- **Programming Languages:** C#, C++, etc.
-- **Tools:** Photoshop, Blender, FMOD, etc.
+- **Game Engine:** Unity  
+- **Programming Languages:** C#  
+- **Tools:** PALM (Google LLM), Whisper (Open AI Speech To Text Model), DeepVoice AI (Text to Speech AI)
 
-## 🌍 Platforms Released
-- Steam, iOS, Android, etc.
 
 ## 👨‍💻 Role and Contributions
-- **Role:**  
+- **Role:**
   - Game Programmer.
-  
-- **Contributions:**  
-  - Developed AI for enemy behavior.  
-  - Implemented a physics-based character controller.
-
-## 🧠 Challenges and Solutions
-- **Challenge 1:** _e.g., Performance issues with large environments_  
-  **Solution:** _Optimized level streaming and reduced asset load times._  
-- **Challenge 2:** _e.g., Balancing complex game mechanics_  
-  **Solution:** _Introduced dynamic difficulty scaling based on player stats._
+- **Contributions:**
+  - Developed AI-driven companion mechanics using advanced language models.
 
 ## 📸 Visuals 
 <div align="center">
@@ -55,8 +46,7 @@ A short paragraph (2-3 sentences) explaining the concept, story, or gameplay mec
 [Play the game here](link-to-game)
 
 ## 🏆 Awards and Recognition
-- **Award 1:** _e.g., Best Indie Game at XYZ Festival_  
-- **Mention 2:** _e.g., Featured in ABC Gaming Blog_
+- **First Place:** Hackathon organised by lablab.ai.  
 
----
-
+Thank you, lablab.ai, for the opportunity, and my incredible teammates Toka Belal, Mostafa Zewail, Aya Omar, and Radwa Ahmed for making this a winning experience! 🎉
+-------------------------
