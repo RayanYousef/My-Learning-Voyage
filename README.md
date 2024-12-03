@@ -1,6 +1,6 @@
 <div align="center"><h1>TechQuest</h1></div>
 
-[Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7126317778608734208/?originTrackingId=l7OMgxLNQ%2BawWp4Qv7BvtA%3D%3D)
+[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7126317778608734208/?originTrackingId=l7OMgxLNQ%2BawWp4Qv7BvtA%3D%3D)
 
 **Project Type:** PC, Web  
 **Genre:** Adventure, Educational  
