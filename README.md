@@ -31,7 +31,7 @@ In a post-apocalyptic universe where science has vanished, players embark on a n
   <h3>Video</h3>
 
 <a href="https://drive.google.com/file/d/1N3gQKOZuxLo_ExvaL7pECztFndbUHP4H/view?usp=sharing" target="_blank">
-    <img src="" alt="Watch Gameplay Video" height ="300" />
+    <img src="Images/Video.png" alt="Watch Gameplay Video" height ="300" />
 </a>
 </div>
 
@@ -40,4 +40,3 @@ In a post-apocalyptic universe where science has vanished, players embark on a n
 
 Thank you, lablab.ai, for the opportunity, and my incredible teammates Toka Belal, Mostafa Zewail, Aya Omar, and Radwa Ahmed for making this a winning experience! 🎉
 -------------------------
-Images/Video.png
