@@ -7,7 +7,7 @@
 **Development Period:** 3 days (Hackathon Duration)
 
 ## 📜 Project Summary
-In a post-apocalyptic universe where science has vanished, players embark on a narrative-rich journey with their AI companion to uncover forgotten technological secrets. "TechQuest: A Journey Through the Lost World" intertwines adventure with education, offering puzzles and challenges relating to science and technology, and immersing players in diverse environments filled with artifacts and lost technologies.
+This was a small, three-day project designed to integrate AI into gaming. The game uses AI to teach players through puzzles, and they are accompanied by a companion. This companion can attack and defend on command, and also assists in solving puzzles, for example, by translating English text or explaining its grammar.
 
 ## 🎮 Key Features
 - **AI Companion:** Collaborate with advanced language models to progress through the narrative and solve challenges.
